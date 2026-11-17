@@ -1,0 +1,24 @@
+{
+  "app": {
+    "name": "TEDU Guide",
+    "tagline": "TED Üniversitesi bina içi navigasyon"
+  },
+  "language": {
+    "switchLabel": "Dili değiştir",
+    "en": "English",
+    "tr": "Türkçe"
+  },
+  "home": {
+    "title": "Nereye gitmek istiyorsunuz?",
+    "searchLabel": "Oda, kişi veya yer arayın",
+    "searchPlaceholder": "örn. D232 veya Çapın hoca",
+    "searchButton": "Ara",
+    "quickNav": "Hızlı işlemler",
+    "quick": {
+      "map": "Haritaya göz at",
+      "accessible": "Basamaksız rotalar",
+      "voice": "Sesli mod",
+      "directory": "Bina rehberi"
+    }
+  }
+}

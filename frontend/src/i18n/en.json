@@ -1,0 +1,24 @@
+{
+  "app": {
+    "name": "TEDU Guide",
+    "tagline": "Indoor navigation for TED University"
+  },
+  "language": {
+    "switchLabel": "Change language",
+    "en": "English",
+    "tr": "Türkçe"
+  },
+  "home": {
+    "title": "Where do you want to go?",
+    "searchLabel": "Search for a room, person or place",
+    "searchPlaceholder": "e.g. D232 or Çapın",
+    "searchButton": "Search",
+    "quickNav": "Quick actions",
+    "quick": {
+      "map": "Browse map",
+      "accessible": "Step-free routes",
+      "voice": "Voice mode",
+      "directory": "Building directory"
+    }
+  }
+}
