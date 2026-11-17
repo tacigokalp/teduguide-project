@@ -1,0 +1,172 @@
+[
+  {
+    "n": "1",
+    "code": "D402",
+    "name_tr": "D402 Numaralı Ofis",
+    "name_en": "Office Number D402",
+    "type": "office",
+    "anchor": [
+      65.87,
+      94.96
+    ],
+    "anchors": [
+      [
+        65.87,
+        94.96
+      ]
+    ]
+  },
+  {
+    "n": "2",
+    "code": "D404",
+    "name_tr": "D404 Numaralı Ofis",
+    "name_en": "Office Number D404",
+    "type": "office",
+    "anchor": [
+      728.93,
+      94.96
+    ],
+    "anchors": [
+      [
+        728.93,
+        94.96
+      ]
+    ]
+  },
+  {
+    "n": "3",
+    "code": null,
+    "name_tr": "Elektrik Pano Odası",
+    "name_en": "Electrical Panel Room",
+    "type": "technical",
+    "anchor": [
+      780.36,
+      94.96
+    ],
+    "anchors": [
+      [
+        780.36,
+        94.96
+      ]
+    ]
+  },
+  {
+    "n": "4",
+    "code": null,
+    "name_tr": "Erkek Tuvaleti",
+    "name_en": "Man Restroom",
+    "type": "wc",
+    "anchor": [
+      826.9,
+      94.96
+    ],
+    "anchors": [
+      [
+        826.9,
+        94.96
+      ]
+    ]
+  },
+  {
+    "n": "5",
+    "code": null,
+    "name_tr": "Kadın Tuvaleti",
+    "name_en": "Woman Restroom",
+    "type": "wc",
+    "anchor": [
+      938.54,
+      94.96
+    ],
+    "anchors": [
+      [
+        938.54,
+        94.96
+      ]
+    ]
+  },
+  {
+    "n": "6",
+    "code": null,
+    "name_tr": "Ayşe Ilıcak Kütüphanesi",
+    "name_en": "Ayşe Ilıcak Library",
+    "type": "library",
+    "anchor": [
+      673.91,
+      263.47
+    ],
+    "anchors": [
+      [
+        673.91,
+        263.47
+      ]
+    ]
+  },
+  {
+    "n": "7",
+    "code": null,
+    "name_tr": "Teras",
+    "name_en": "Terrace",
+    "type": "terrace",
+    "anchor": [
+      673.91,
+      305.45
+    ],
+    "anchors": [
+      [
+        673.91,
+        305.45
+      ]
+    ]
+  },
+  {
+    "n": "8",
+    "code": null,
+    "name_tr": "7/24 Çalışma Alanı",
+    "name_en": "24/7 Workspace",
+    "type": "study",
+    "anchor": [
+      626.6,
+      263.47
+    ],
+    "anchors": [
+      [
+        626.6,
+        263.47
+      ]
+    ]
+  },
+  {
+    "n": "9",
+    "code": "D403",
+    "name_tr": "D403 Numaralı Ofis",
+    "name_en": "Office Number D403",
+    "type": "office",
+    "anchor": [
+      220.34,
+      263.47
+    ],
+    "anchors": [
+      [
+        220.34,
+        263.47
+      ]
+    ]
+  },
+  {
+    "n": "10",
+    "code": "D401",
+    "name_tr": "D401 Numaralı Ofis",
+    "name_en": "Office Number D401",
+    "type": "office",
+    "anchor": [
+      148.34,
+      263.47
+    ],
+    "anchors": [
+      [
+        148.34,
+        263.47
+      ]
+    ]
+  }
+]

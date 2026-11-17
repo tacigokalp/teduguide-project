@@ -1,0 +1,410 @@
+[
+  {
+    "n": "1",
+    "code": "D202",
+    "name_tr": "D202 Numaralı Ofis",
+    "name_en": "Office Number D202",
+    "type": "office",
+    "anchor": [
+      57.68,
+      31.59
+    ],
+    "anchors": [
+      [
+        57.68,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "2",
+    "code": "D204",
+    "name_tr": "D204 Numaralı Ofis",
+    "name_en": "Office Number D204",
+    "type": "office",
+    "anchor": [
+      135.55,
+      31.59
+    ],
+    "anchors": [
+      [
+        135.55,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "3",
+    "code": "D206",
+    "name_tr": "D206 Numaralı Ofis",
+    "name_en": "Office Number D206",
+    "type": "office",
+    "anchor": [
+      187.64,
+      31.59
+    ],
+    "anchors": [
+      [
+        187.64,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "4",
+    "code": "D208",
+    "name_tr": "D208 Numaralı Ofis",
+    "name_en": "Office Number D208",
+    "type": "office",
+    "anchor": [
+      238.98,
+      31.59
+    ],
+    "anchors": [
+      [
+        238.98,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "5",
+    "code": "D210",
+    "name_tr": "D210 Numaralı Ofis",
+    "name_en": "Office Number D210",
+    "type": "office",
+    "anchor": [
+      292.57,
+      31.59
+    ],
+    "anchors": [
+      [
+        292.57,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "6",
+    "code": "D212",
+    "name_tr": "D212 Numaralı Ofis",
+    "name_en": "Office Number D212",
+    "type": "office",
+    "anchor": [
+      344.11,
+      31.59
+    ],
+    "anchors": [
+      [
+        344.11,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "7",
+    "code": null,
+    "name_tr": "İktisadi ve İdari Bilimler Fakültesi Dekanlığı",
+    "name_en": "Faculty of Economics and Administrative Sciences Dean's Office",
+    "type": "office",
+    "anchor": [
+      395.19,
+      31.59
+    ],
+    "anchors": [
+      [
+        395.19,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "8",
+    "code": null,
+    "name_tr": "İktisadi ve İdari Bilimler Fakültesi Dekanlık Sekreterliği",
+    "name_en": "Faculty of Economics and Administrative Sciences Dean's Office Secretariat",
+    "type": "office",
+    "anchor": [
+      499.98,
+      31.59
+    ],
+    "anchors": [
+      [
+        499.98,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "9",
+    "code": null,
+    "name_tr": "Çay Ocağı",
+    "name_en": "Kitchenette",
+    "type": "kitchenette",
+    "anchor": [
+      549.0,
+      31.59
+    ],
+    "anchors": [
+      [
+        549.0,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "10",
+    "code": null,
+    "name_tr": "Erkek Tuvaleti",
+    "name_en": "Man Restroom",
+    "type": "wc",
+    "anchor": [
+      589.98,
+      31.59
+    ],
+    "anchors": [
+      [
+        589.98,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "11",
+    "code": null,
+    "name_tr": "Kadın Tuvaleti",
+    "name_en": "Woman Restroom",
+    "type": "wc",
+    "anchor": [
+      686.17,
+      31.59
+    ],
+    "anchors": [
+      [
+        686.17,
+        31.59
+      ]
+    ]
+  },
+  {
+    "n": "12",
+    "code": null,
+    "name_tr": "Elektrik Pano Odası",
+    "name_en": "Electrical Panel Room",
+    "type": "technical",
+    "anchor": [
+      686.17,
+      141.31
+    ],
+    "anchors": [
+      [
+        686.17,
+        141.31
+      ]
+    ]
+  },
+  {
+    "n": "13",
+    "code": "D224",
+    "name_tr": "D224 Numaralı Sınıf",
+    "name_en": "Class Number D224",
+    "type": "classroom",
+    "anchor": [
+      731.76,
+      65.16
+    ],
+    "anchors": [
+      [
+        731.76,
+        65.16
+      ]
+    ]
+  },
+  {
+    "n": "14",
+    "code": "D226",
+    "name_tr": "D226 Numaralı Sınıf",
+    "name_en": "Class Number D226",
+    "type": "classroom",
+    "anchor": [
+      968.2,
+      65.16
+    ],
+    "anchors": [
+      [
+        968.2,
+        65.16
+      ]
+    ]
+  },
+  {
+    "n": "15",
+    "code": "D228",
+    "name_tr": "D228 Numaralı Sınıf",
+    "name_en": "Class Number D228",
+    "type": "classroom",
+    "anchor": [
+      1129.69,
+      65.16
+    ],
+    "anchors": [
+      [
+        1129.69,
+        65.16
+      ]
+    ]
+  },
+  {
+    "n": "16",
+    "code": "D230",
+    "name_tr": "D230 Numaralı Sınıf",
+    "name_en": "Class Number D230",
+    "type": "classroom",
+    "anchor": [
+      1283.78,
+      65.16
+    ],
+    "anchors": [
+      [
+        1283.78,
+        65.16
+      ]
+    ]
+  },
+  {
+    "n": "17",
+    "code": "D232",
+    "name_tr": "D232 Numaralı Sınıf",
+    "name_en": "Class Number D232",
+    "type": "classroom",
+    "anchor": [
+      1441.76,
+      65.16
+    ],
+    "anchors": [
+      [
+        1441.76,
+        65.16
+      ]
+    ]
+  },
+  {
+    "n": "18",
+    "code": "D213",
+    "name_tr": "D213 Numaralı Ofis",
+    "name_en": "Office Number D213",
+    "type": "office",
+    "anchor": [
+      451.11,
+      228.85
+    ],
+    "anchors": [
+      [
+        451.11,
+        228.85
+      ]
+    ]
+  },
+  {
+    "n": "19",
+    "code": "D211",
+    "name_tr": "D211 Numaralı Ofis",
+    "name_en": "Office Number D211",
+    "type": "office",
+    "anchor": [
+      395.19,
+      228.85
+    ],
+    "anchors": [
+      [
+        395.19,
+        228.85
+      ]
+    ]
+  },
+  {
+    "n": "20",
+    "code": "D209",
+    "name_tr": "D209 Numaralı Ofis",
+    "name_en": "Office Number D209",
+    "type": "office",
+    "anchor": [
+      344.11,
+      228.85
+    ],
+    "anchors": [
+      [
+        344.11,
+        228.85
+      ]
+    ]
+  },
+  {
+    "n": "21",
+    "code": "D207",
+    "name_tr": "D207 Numaralı Ofis",
+    "name_en": "Office Number D207",
+    "type": "office",
+    "anchor": [
+      292.57,
+      228.85
+    ],
+    "anchors": [
+      [
+        292.57,
+        228.85
+      ]
+    ]
+  },
+  {
+    "n": "22",
+    "code": "D205",
+    "name_tr": "D205 Numaralı Ofis",
+    "name_en": "Office Number D205",
+    "type": "office",
+    "anchor": [
+      238.98,
+      228.85
+    ],
+    "anchors": [
+      [
+        238.98,
+        228.85
+      ]
+    ]
+  },
+  {
+    "n": "23",
+    "code": "D203",
+    "name_tr": "D203 Numaralı Ofis",
+    "name_en": "Office Number D203",
+    "type": "office",
+    "anchor": [
+      187.64,
+      228.85
+    ],
+    "anchors": [
+      [
+        187.64,
+        228.85
+      ]
+    ]
+  },
+  {
+    "n": "24",
+    "code": "D201",
+    "name_tr": "D201 Numaralı Ofis",
+    "name_en": "Office Number D201",
+    "type": "office",
+    "anchor": [
+      135.55,
+      228.85
+    ],
+    "anchors": [
+      [
+        135.55,
+        228.85
+      ]
+    ]
+  }
+]

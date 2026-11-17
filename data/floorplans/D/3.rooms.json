@@ -1,0 +1,384 @@
+[
+  {
+    "n": "1",
+    "code": "D302",
+    "name_tr": "D302 Numaralı Ofis",
+    "name_en": "Office Number D302",
+    "type": "office",
+    "anchor": [
+      61.62,
+      31.91
+    ],
+    "anchors": [
+      [
+        61.62,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "2",
+    "code": "D304",
+    "name_tr": "D304 Numaralı Ofis",
+    "name_en": "Office Number D304",
+    "type": "office",
+    "anchor": [
+      149.89,
+      31.91
+    ],
+    "anchors": [
+      [
+        149.89,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "3",
+    "code": "D306",
+    "name_tr": "D306 Numaralı Ofis",
+    "name_en": "Office Number D306",
+    "type": "office",
+    "anchor": [
+      207.53,
+      31.91
+    ],
+    "anchors": [
+      [
+        207.53,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "4",
+    "code": "D308",
+    "name_tr": "D308 Numaralı Ofis",
+    "name_en": "Office Number D308",
+    "type": "office",
+    "anchor": [
+      263.83,
+      31.91
+    ],
+    "anchors": [
+      [
+        263.83,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "5",
+    "code": "D310",
+    "name_tr": "D310 Numaralı Ofis",
+    "name_en": "Office Number D310",
+    "type": "office",
+    "anchor": [
+      325.11,
+      31.91
+    ],
+    "anchors": [
+      [
+        325.11,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "6",
+    "code": "D312",
+    "name_tr": "D312 Numaralı Ofis",
+    "name_en": "Office Number D312",
+    "type": "office",
+    "anchor": [
+      381.4,
+      31.91
+    ],
+    "anchors": [
+      [
+        381.4,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "7",
+    "code": null,
+    "name_tr": "Mühendislik Fakültesi Dekanlığı",
+    "name_en": "Faculty of Engineering Dean's Office",
+    "type": "office",
+    "anchor": [
+      434.23,
+      31.91
+    ],
+    "anchors": [
+      [
+        434.23,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "8",
+    "code": null,
+    "name_tr": "Mühendislik Fakültesi Dekanlık Sekreterliği",
+    "name_en": "Faculty of Engineering Dean's Office Secretariat",
+    "type": "office",
+    "anchor": [
+      556.83,
+      31.91
+    ],
+    "anchors": [
+      [
+        556.83,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "9",
+    "code": null,
+    "name_tr": "Çay Ocağı",
+    "name_en": "Kitchenette",
+    "type": "kitchenette",
+    "anchor": [
+      611.68,
+      31.91
+    ],
+    "anchors": [
+      [
+        611.68,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "10",
+    "code": null,
+    "name_tr": "Erkek Tuvaleti",
+    "name_en": "Man Restroom",
+    "type": "wc",
+    "anchor": [
+      654.36,
+      31.91
+    ],
+    "anchors": [
+      [
+        654.36,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "11",
+    "code": null,
+    "name_tr": "Kadın Tuvaleti",
+    "name_en": "Woman Restroom",
+    "type": "wc",
+    "anchor": [
+      763.89,
+      31.91
+    ],
+    "anchors": [
+      [
+        763.89,
+        31.91
+      ]
+    ]
+  },
+  {
+    "n": "12",
+    "code": null,
+    "name_tr": "Elektrik Pano Odası",
+    "name_en": "Electrical Panel Room",
+    "type": "technical",
+    "anchor": [
+      763.89,
+      164.16
+    ],
+    "anchors": [
+      [
+        763.89,
+        164.16
+      ]
+    ]
+  },
+  {
+    "n": "13",
+    "code": null,
+    "name_tr": "Ayşe Ilıcak Kütüphanesi",
+    "name_en": "Ayşe Ilıcak Library",
+    "type": "library",
+    "anchor": [
+      1550.53,
+      255.31
+    ],
+    "anchors": [
+      [
+        1550.53,
+        255.31
+      ],
+      [
+        1550.53,
+        304.08
+      ]
+    ]
+  },
+  {
+    "n": "13.1",
+    "code": null,
+    "name_tr": "Grup Çalışma Odası",
+    "name_en": "Group Study Room",
+    "type": "study",
+    "anchor": [
+      848.14,
+      164.16
+    ],
+    "anchors": [
+      [
+        848.14,
+        164.16
+      ],
+      [
+        885.04,
+        164.16
+      ]
+    ]
+  },
+  {
+    "n": "13.2",
+    "code": null,
+    "name_tr": "Danışma",
+    "name_en": "Infodesk",
+    "type": "info",
+    "anchor": [
+      1081.13,
+      164.16
+    ],
+    "anchors": [
+      [
+        1081.13,
+        164.16
+      ]
+    ]
+  },
+  {
+    "n": "14",
+    "code": "D313",
+    "name_tr": "D313 Numaralı Ofis",
+    "name_en": "Office Number D313",
+    "type": "office",
+    "anchor": [
+      500.73,
+      255.18
+    ],
+    "anchors": [
+      [
+        500.73,
+        255.18
+      ]
+    ]
+  },
+  {
+    "n": "15",
+    "code": "D311",
+    "name_tr": "D311 Numaralı Ofis",
+    "name_en": "Office Number D311",
+    "type": "office",
+    "anchor": [
+      440.36,
+      255.18
+    ],
+    "anchors": [
+      [
+        440.36,
+        255.18
+      ]
+    ]
+  },
+  {
+    "n": "16",
+    "code": "D309",
+    "name_tr": "D309 Numaralı Ofis",
+    "name_en": "Office Number D309",
+    "type": "office",
+    "anchor": [
+      381.4,
+      255.18
+    ],
+    "anchors": [
+      [
+        381.4,
+        255.18
+      ]
+    ]
+  },
+  {
+    "n": "17",
+    "code": "D307",
+    "name_tr": "D307 Numaralı Ofis",
+    "name_en": "Office Number D307",
+    "type": "office",
+    "anchor": [
+      325.11,
+      255.18
+    ],
+    "anchors": [
+      [
+        325.11,
+        255.18
+      ]
+    ]
+  },
+  {
+    "n": "18",
+    "code": "D305",
+    "name_tr": "D305 Numaralı Ofis",
+    "name_en": "Office Number D305",
+    "type": "office",
+    "anchor": [
+      263.83,
+      255.18
+    ],
+    "anchors": [
+      [
+        263.83,
+        255.18
+      ]
+    ]
+  },
+  {
+    "n": "19",
+    "code": "D303",
+    "name_tr": "D303 Numaralı Ofis",
+    "name_en": "Office Number D303",
+    "type": "office",
+    "anchor": [
+      207.53,
+      255.18
+    ],
+    "anchors": [
+      [
+        207.53,
+        255.18
+      ]
+    ]
+  },
+  {
+    "n": "20",
+    "code": "D301",
+    "name_tr": "D301 Numaralı Ofis",
+    "name_en": "Office Number D301",
+    "type": "office",
+    "anchor": [
+      149.89,
+      255.18
+    ],
+    "anchors": [
+      [
+        149.89,
+        255.18
+      ]
+    ]
+  }
+]

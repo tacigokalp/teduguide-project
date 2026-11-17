@@ -1,0 +1,376 @@
+[
+  {
+    "n": "1",
+    "code": "D102",
+    "name_tr": "D102 Numaralı Ofis",
+    "name_en": "Office Number D102",
+    "type": "office",
+    "anchor": [
+      58.68,
+      30.59
+    ],
+    "anchors": [
+      [
+        58.68,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "2",
+    "code": "D104",
+    "name_tr": "D104 Numaralı Ofis",
+    "name_en": "Office Number D104",
+    "type": "office",
+    "anchor": [
+      136.55,
+      30.59
+    ],
+    "anchors": [
+      [
+        136.55,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "3",
+    "code": "D106",
+    "name_tr": "D106 Numaralı Ofis",
+    "name_en": "Office Number D106",
+    "type": "office",
+    "anchor": [
+      188.64,
+      30.59
+    ],
+    "anchors": [
+      [
+        188.64,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "4",
+    "code": "D108",
+    "name_tr": "D108 Numaralı Ofis",
+    "name_en": "Office Number D108",
+    "type": "office",
+    "anchor": [
+      239.98,
+      30.59
+    ],
+    "anchors": [
+      [
+        239.98,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "5",
+    "code": "D110",
+    "name_tr": "D110 Numaralı Ofis",
+    "name_en": "Office Number D110",
+    "type": "office",
+    "anchor": [
+      293.57,
+      30.59
+    ],
+    "anchors": [
+      [
+        293.57,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "6",
+    "code": "D112",
+    "name_tr": "D112 Numaralı Ofis",
+    "name_en": "Office Number D112",
+    "type": "office",
+    "anchor": [
+      345.11,
+      30.59
+    ],
+    "anchors": [
+      [
+        345.11,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "7",
+    "code": null,
+    "name_tr": "Eğitim Fakültesi Dekanlığı",
+    "name_en": "Faculty of Education Dean's Office",
+    "type": "office",
+    "anchor": [
+      396.19,
+      30.59
+    ],
+    "anchors": [
+      [
+        396.19,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "8",
+    "code": null,
+    "name_tr": "Eğitim Fakültesi Dekanlık Sekreterliği",
+    "name_en": "Faculty of Education Dean's Office Secretariat",
+    "type": "office",
+    "anchor": [
+      500.98,
+      30.59
+    ],
+    "anchors": [
+      [
+        500.98,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "9",
+    "code": null,
+    "name_tr": "Çay Ocağı",
+    "name_en": "Kitchenette",
+    "type": "kitchenette",
+    "anchor": [
+      550.0,
+      30.59
+    ],
+    "anchors": [
+      [
+        550.0,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "10",
+    "code": null,
+    "name_tr": "Erkek Tuvaleti",
+    "name_en": "Man Restroom",
+    "type": "wc",
+    "anchor": [
+      590.98,
+      30.59
+    ],
+    "anchors": [
+      [
+        590.98,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "11",
+    "code": null,
+    "name_tr": "Kadın Tuvaleti",
+    "name_en": "Woman Restroom",
+    "type": "wc",
+    "anchor": [
+      687.17,
+      30.59
+    ],
+    "anchors": [
+      [
+        687.17,
+        30.59
+      ]
+    ]
+  },
+  {
+    "n": "12",
+    "code": null,
+    "name_tr": "Elektrik Odası",
+    "name_en": "Electrical Room",
+    "type": "technical",
+    "anchor": [
+      687.17,
+      140.31
+    ],
+    "anchors": [
+      [
+        687.17,
+        140.31
+      ]
+    ]
+  },
+  {
+    "n": "13",
+    "code": "D126",
+    "name_tr": "D126 Numaralı Sınıf",
+    "name_en": "Class Number D126",
+    "type": "classroom",
+    "anchor": [
+      732.76,
+      64.16
+    ],
+    "anchors": [
+      [
+        732.76,
+        64.16
+      ]
+    ]
+  },
+  {
+    "n": "14",
+    "code": "D128",
+    "name_tr": "D128 Numaralı Stüdyo",
+    "name_en": "Studio Number D128",
+    "type": "studio",
+    "anchor": [
+      969.2,
+      64.16
+    ],
+    "anchors": [
+      [
+        969.2,
+        64.16
+      ]
+    ]
+  },
+  {
+    "n": "15",
+    "code": "D130",
+    "name_tr": "D130 Numaralı Stüdyo",
+    "name_en": "Studio Number D130",
+    "type": "studio",
+    "anchor": [
+      1282.86,
+      64.16
+    ],
+    "anchors": [
+      [
+        1282.86,
+        64.16
+      ]
+    ]
+  },
+  {
+    "n": "16",
+    "code": "D113",
+    "name_tr": "D113 Numaralı Ofis",
+    "name_en": "Office Number D113",
+    "type": "office",
+    "anchor": [
+      452.11,
+      227.85
+    ],
+    "anchors": [
+      [
+        452.11,
+        227.85
+      ]
+    ]
+  },
+  {
+    "n": "17",
+    "code": "D111",
+    "name_tr": "D111 Numaralı Ofis",
+    "name_en": "Office Number D111",
+    "type": "office",
+    "anchor": [
+      396.19,
+      227.85
+    ],
+    "anchors": [
+      [
+        396.19,
+        227.85
+      ]
+    ]
+  },
+  {
+    "n": "18",
+    "code": "D109",
+    "name_tr": "D109 Numaralı Ofis",
+    "name_en": "Office Number D109",
+    "type": "office",
+    "anchor": [
+      345.11,
+      227.85
+    ],
+    "anchors": [
+      [
+        345.11,
+        227.85
+      ]
+    ]
+  },
+  {
+    "n": "19",
+    "code": "D107",
+    "name_tr": "D107 Numaralı Ofis",
+    "name_en": "Office Number D107",
+    "type": "office",
+    "anchor": [
+      293.57,
+      227.85
+    ],
+    "anchors": [
+      [
+        293.57,
+        227.85
+      ]
+    ]
+  },
+  {
+    "n": "20",
+    "code": "D105",
+    "name_tr": "D105 Numaralı Ofis",
+    "name_en": "Office Number D105",
+    "type": "office",
+    "anchor": [
+      239.98,
+      227.85
+    ],
+    "anchors": [
+      [
+        239.98,
+        227.85
+      ]
+    ]
+  },
+  {
+    "n": "21",
+    "code": "D103",
+    "name_tr": "D103 Numaralı Ofis",
+    "name_en": "Office Number D103",
+    "type": "office",
+    "anchor": [
+      188.64,
+      227.85
+    ],
+    "anchors": [
+      [
+        188.64,
+        227.85
+      ]
+    ]
+  },
+  {
+    "n": "22",
+    "code": "D101",
+    "name_tr": "D101 Numaralı Ofis",
+    "name_en": "Office Number D101",
+    "type": "office",
+    "anchor": [
+      136.55,
+      227.85
+    ],
+    "anchors": [
+      [
+        136.55,
+        227.85
+      ]
+    ]
+  }
+]

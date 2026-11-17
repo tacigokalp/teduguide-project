@@ -1,0 +1,206 @@
+[
+  {
+    "n": "1",
+    "code": null,
+    "name_tr": "Akışkanlar Mekaniği Laboratuvarı",
+    "name_en": "Fluid Mechanics Laboratory",
+    "type": "lab",
+    "anchor": [
+      419.02,
+      30.3
+    ],
+    "anchors": [
+      [
+        419.02,
+        30.3
+      ]
+    ]
+  },
+  {
+    "n": "2",
+    "code": null,
+    "name_tr": "Elektrik Pano Odası",
+    "name_en": "Electrical Panel Room",
+    "type": "technical",
+    "anchor": [
+      459.73,
+      30.3
+    ],
+    "anchors": [
+      [
+        459.73,
+        30.3
+      ]
+    ]
+  },
+  {
+    "n": "3",
+    "code": null,
+    "name_tr": "Erkek Tuvaleti",
+    "name_en": "Man Restroom",
+    "type": "wc",
+    "anchor": [
+      498.3,
+      30.3
+    ],
+    "anchors": [
+      [
+        498.3,
+        30.3
+      ]
+    ]
+  },
+  {
+    "n": "4",
+    "code": null,
+    "name_tr": "Kadın Tuvaleti",
+    "name_en": "Woman Restroom",
+    "type": "wc",
+    "anchor": [
+      580.0,
+      30.3
+    ],
+    "anchors": [
+      [
+        580.0,
+        30.3
+      ]
+    ]
+  },
+  {
+    "n": "5",
+    "code": null,
+    "name_tr": "Elektrik Pano Odası",
+    "name_en": "Electrical Panel Room",
+    "type": "technical",
+    "anchor": [
+      580.0,
+      120.69
+    ],
+    "anchors": [
+      [
+        580.0,
+        120.69
+      ]
+    ]
+  },
+  {
+    "n": "6",
+    "code": null,
+    "name_tr": "Ulaşım Hizmetleri Ofisi",
+    "name_en": "Transportation Services Office",
+    "type": "office",
+    "anchor": [
+      620.34,
+      120.69
+    ],
+    "anchors": [
+      [
+        620.34,
+        120.69
+      ]
+    ]
+  },
+  {
+    "n": "7",
+    "code": null,
+    "name_tr": "Teknik Hizmetler Ofisi",
+    "name_en": "Technical Services Office",
+    "type": "office",
+    "anchor": [
+      681.23,
+      120.69
+    ],
+    "anchors": [
+      [
+        681.23,
+        120.69
+      ]
+    ]
+  },
+  {
+    "n": "8",
+    "code": "DB014",
+    "name_tr": "DB014 Numaralı Amfi",
+    "name_en": "Amphi Number DB014",
+    "type": "amphitheatre",
+    "anchor": [
+      873.87,
+      221.16
+    ],
+    "anchors": [
+      [
+        873.87,
+        221.16
+      ]
+    ]
+  },
+  {
+    "n": "9",
+    "code": "DB016",
+    "name_tr": "DB016 Numaralı Amfi",
+    "name_en": "Amphi Number DB016",
+    "type": "amphitheatre",
+    "anchor": [
+      1015.38,
+      221.16
+    ],
+    "anchors": [
+      [
+        1015.38,
+        221.16
+      ]
+    ]
+  },
+  {
+    "n": "10",
+    "code": "DB018",
+    "name_tr": "DB018 Numaralı Amfi",
+    "name_en": "Amphi Number DB018",
+    "type": "amphitheatre",
+    "anchor": [
+      1151.08,
+      221.16
+    ],
+    "anchors": [
+      [
+        1151.08,
+        221.16
+      ]
+    ]
+  },
+  {
+    "n": "11",
+    "code": "DB020",
+    "name_tr": "DB020 Numaralı Amfi",
+    "name_en": "Amphi Number DB020",
+    "type": "amphitheatre",
+    "anchor": [
+      1289.18,
+      221.16
+    ],
+    "anchors": [
+      [
+        1289.18,
+        221.16
+      ]
+    ]
+  },
+  {
+    "n": "12",
+    "code": "DB022",
+    "name_tr": "DB022 Numaralı Toplantı Salonu",
+    "name_en": "Meeting Room Number DB022",
+    "type": "meeting",
+    "anchor": [
+      1445.98,
+      339.95
+    ],
+    "anchors": [
+      [
+        1445.98,
+        339.95
+      ]
+    ]
+  }
+]

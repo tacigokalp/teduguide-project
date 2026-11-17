@@ -1,0 +1,21 @@
+{
+  "_about": "Fixes for mistakes in the official PDFs. Applied by tools/extract_rooms.py. Each fix must be checked on campus (S-04/S-09); set verified=true when done.",
+  "0": {
+    "legendRowForMarker": {
+      "24": "13",
+      "23": "14",
+      "22": "15",
+      "21": "16",
+      "20": "17",
+      "19": "18",
+      "18": "19",
+      "13": "20",
+      "14": "21",
+      "15": "22",
+      "16": "23",
+      "17": "24"
+    },
+    "verified": false,
+    "reason": "Ground floor: plan markers and legend rows do not match. Plan 14-17 are the four big rooms on the east side, but legend 14-17 are offices D003-D009; plan 18-24 are the small rooms of the bottom row, but legend 21-24 are amphis D026-D032. Floors 1-3 have the same building layout with bottom-row offices (odd codes, west->east = high->low marker) and big east rooms, so: bottom row west->east (markers 24..18) = D001, D003, ... D013; big east rooms (14..17) = amphis D026..D032; marker 13 (by the lobby) = Cafeteria. The prototype also puts amphis D026-D032 on the ground floor."
+  }
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "n": "1",
+    "code": "D002",
+    "name_tr": "D002 Numaralı Ofis",
+    "name_en": "Office Number D002",
+    "type": "office",
+    "anchor": [
+      158.51,
+      157.23
+    ],
+    "anchors": [
+      [
+        158.51,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "2",
+    "code": "D004",
+    "name_tr": "D004 Numaralı Ofis",
+    "name_en": "Office Number D004",
+    "type": "office",
+    "anchor": [
+      231.66,
+      157.23
+    ],
+    "anchors": [
+      [
+        231.66,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "3",
+    "code": "D006",
+    "name_tr": "D006 Numaralı Ofis",
+    "name_en": "Office Number D006",
+    "type": "office",
+    "anchor": [
+      280.3,
+      157.23
+    ],
+    "anchors": [
+      [
+        280.3,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "4",
+    "code": "D008",
+    "name_tr": "D008 Numaralı Ofis",
+    "name_en": "Office Number D008",
+    "type": "office",
+    "anchor": [
+      329.7,
+      157.23
+    ],
+    "anchors": [
+      [
+        329.7,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "5",
+    "code": "D010",
+    "name_tr": "D010 Numaralı Ofis",
+    "name_en": "Office Number D010",
+    "type": "office",
+    "anchor": [
+      382.17,
+      157.23
+    ],
+    "anchors": [
+      [
+        382.17,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "6",
+    "code": "D012",
+    "name_tr": "D012 Numaralı Ofis",
+    "name_en": "Office Number D012",
+    "type": "office",
+    "anchor": [
+      431.04,
+      157.23
+    ],
+    "anchors": [
+      [
+        431.04,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "7",
+    "code": null,
+    "name_tr": "Mimarlık ve Tasarım Fakültesi Dekanlığı",
+    "name_en": "Dean's Office of the Faculty of Architecture and Design",
+    "type": "office",
+    "anchor": [
+      476.62,
+      157.23
+    ],
+    "anchors": [
+      [
+        476.62,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "8",
+    "code": null,
+    "name_tr": "Mimarlık ve Tasarım Fakültesi Dekanlık Sekreterliği",
+    "name_en": "Faculty of Architecture and Design Dean's Office Secretariat",
+    "type": "office",
+    "anchor": [
+      582.67,
+      157.23
+    ],
+    "anchors": [
+      [
+        582.67,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "9",
+    "code": null,
+    "name_tr": "Çay Ocağı",
+    "name_en": "Kitchenette",
+    "type": "kitchenette",
+    "anchor": [
+      627.48,
+      157.23
+    ],
+    "anchors": [
+      [
+        627.48,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "10",
+    "code": null,
+    "name_tr": "Erkek Tuvaleti",
+    "name_en": "Man Restroom",
+    "type": "wc",
+    "anchor": [
+      667.69,
+      157.23
+    ],
+    "anchors": [
+      [
+        667.69,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "11",
+    "code": null,
+    "name_tr": "Kadın Tuvaleti",
+    "name_en": "Woman Restroom",
+    "type": "wc",
+    "anchor": [
+      761.14,
+      157.23
+    ],
+    "anchors": [
+      [
+        761.14,
+        157.23
+      ]
+    ]
+  },
+  {
+    "n": "12",
+    "code": null,
+    "name_tr": "Elektrik Pano Odası",
+    "name_en": "Electrical Panel Room",
+    "type": "technical",
+    "anchor": [
+      758.07,
+      259.48
+    ],
+    "anchors": [
+      [
+        758.07,
+        259.48
+      ]
+    ]
+  },
+  {
+    "n": "13",
+    "legend_row": "20",
+    "verified": false,
+    "code": null,
+    "name_tr": "Kafeterya",
+    "name_en": "Cafeteria",
+    "type": "cafe",
+    "anchor": [
+      985.14,
+      372.08
+    ],
+    "anchors": [
+      [
+        985.14,
+        372.08
+      ]
+    ]
+  },
+  {
+    "n": "14",
+    "legend_row": "21",
+    "verified": false,
+    "code": "D026",
+    "name_tr": "D026 Numaralı Amfi",
+    "name_en": "Amphi Number D026",
+    "type": "amphitheatre",
+    "anchor": [
+      1024.07,
+      184.55
+    ],
+    "anchors": [
+      [
+        1024.07,
+        184.55
+      ]
+    ]
+  },
+  {
+    "n": "15",
+    "legend_row": "22",
+    "verified": false,
+    "code": "D028",
+    "name_tr": "D028 Numaralı Amfi",
+    "name_en": "Amphi Number D028",
+    "type": "amphitheatre",
+    "anchor": [
+      1174.95,
+      184.55
+    ],
+    "anchors": [
+      [
+        1174.95,
+        184.55
+      ]
+    ]
+  },
+  {
+    "n": "16",
+    "legend_row": "23",
+    "verified": false,
+    "code": "D030",
+    "name_tr": "D030 Numaralı Amfi",
+    "name_en": "Amphi Number D030",
+    "type": "amphitheatre",
+    "anchor": [
+      1325.16,
+      184.55
+    ],
+    "anchors": [
+      [
+        1325.16,
+        184.55
+      ]
+    ]
+  },
+  {
+    "n": "17",
+    "legend_row": "24",
+    "verified": false,
+    "code": "D032",
+    "name_tr": "D032 Numaralı Amfi",
+    "name_en": "Amphi Number D032",
+    "type": "amphitheatre",
+    "anchor": [
+      1475.67,
+      184.55
+    ],
+    "anchors": [
+      [
+        1475.67,
+        184.55
+      ]
+    ]
+  },
+  {
+    "n": "18",
+    "legend_row": "19",
+    "verified": false,
+    "code": "D013",
+    "name_tr": "D013 Numaralı Ofis",
+    "name_en": "Office Number D013",
+    "type": "office",
+    "anchor": [
+      532.15,
+      344.89
+    ],
+    "anchors": [
+      [
+        532.15,
+        344.89
+      ]
+    ]
+  },
+  {
+    "n": "19",
+    "legend_row": "18",
+    "verified": false,
+    "code": "D011",
+    "name_tr": "D011 Numaralı Ofis",
+    "name_en": "Office Number D011",
+    "type": "office",
+    "anchor": [
+      476.62,
+      344.89
+    ],
+    "anchors": [
+      [
+        476.62,
+        344.89
+      ]
+    ]
+  },
+  {
+    "n": "20",
+    "legend_row": "17",
+    "verified": false,
+    "code": "D009",
+    "name_tr": "D009 Numaralı Ofis",
+    "name_en": "Office Number D009",
+    "type": "office",
+    "anchor": [
+      431.04,
+      344.89
+    ],
+    "anchors": [
+      [
+        431.04,
+        344.89
+      ]
+    ]
+  },
+  {
+    "n": "21",
+    "legend_row": "16",
+    "verified": false,
+    "code": "D007",
+    "name_tr": "D007 Numaralı Ofis",
+    "name_en": "Office Number D007",
+    "type": "office",
+    "anchor": [
+      382.17,
+      344.89
+    ],
+    "anchors": [
+      [
+        382.17,
+        344.89
+      ]
+    ]
+  },
+  {
+    "n": "22",
+    "legend_row": "15",
+    "verified": false,
+    "code": "D005",
+    "name_tr": "D005 Numaralı Ofis",
+    "name_en": "Office Number D005",
+    "type": "office",
+    "anchor": [
+      329.7,
+      344.89
+    ],
+    "anchors": [
+      [
+        329.7,
+        344.89
+      ]
+    ]
+  },
+  {
+    "n": "23",
+    "legend_row": "14",
+    "verified": false,
+    "code": "D003",
+    "name_tr": "D003 Numaralı Ofis",
+    "name_en": "Office Number D003",
+    "type": "office",
+    "anchor": [
+      280.3,
+      344.89
+    ],
+    "anchors": [
+      [
+        280.3,
+        344.89
+      ]
+    ]
+  },
+  {
+    "n": "24",
+    "legend_row": "13",
+    "verified": false,
+    "code": "D001",
+    "name_tr": "D001 Numaralı Ofis",
+    "name_en": "Office Number D001",
+    "type": "office",
+    "anchor": [
+      231.66,
+      344.89
+    ],
+    "anchors": [
+      [
+        231.66,
+        344.89
+      ]
+    ]
+  }
+]

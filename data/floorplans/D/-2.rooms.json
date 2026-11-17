@@ -1,0 +1,189 @@
+[
+  {
+    "n": "1",
+    "code": null,
+    "name_tr": "Öğrenme Mühendisliği Laboratuvarı",
+    "name_en": "Learining Engineering Laboratory",
+    "type": "lab",
+    "anchor": [
+      419.02,
+      31.3
+    ],
+    "anchors": [
+      [
+        419.02,
+        31.3
+      ]
+    ]
+  },
+  {
+    "n": "2",
+    "code": null,
+    "name_tr": "Elektrik Pano Odası",
+    "name_en": "Electrical Panel Room",
+    "type": "technical",
+    "anchor": [
+      459.73,
+      31.3
+    ],
+    "anchors": [
+      [
+        459.73,
+        31.3
+      ]
+    ]
+  },
+  {
+    "n": "3",
+    "code": null,
+    "name_tr": "Depo",
+    "name_en": "Depo",
+    "type": "storage",
+    "anchor": [
+      498.3,
+      31.3
+    ],
+    "anchors": [
+      [
+        498.3,
+        31.3
+      ]
+    ]
+  },
+  {
+    "n": "4",
+    "code": null,
+    "name_tr": "Elektrik Pano Odası",
+    "name_en": "Electrical Panel Room",
+    "type": "technical",
+    "anchor": [
+      580.0,
+      121.69
+    ],
+    "anchors": [
+      [
+        580.0,
+        121.69
+      ]
+    ]
+  },
+  {
+    "n": "5",
+    "code": null,
+    "name_tr": "Rezerv Alanı",
+    "name_en": "Reserve Area",
+    "type": "reserved",
+    "anchor": [
+      620.34,
+      121.69
+    ],
+    "anchors": [
+      [
+        620.34,
+        121.69
+      ]
+    ]
+  },
+  {
+    "n": "6",
+    "code": null,
+    "name_tr": "Rezerv Alanı",
+    "name_en": "Reserve Area",
+    "type": "reserved",
+    "anchor": [
+      924.68,
+      121.69
+    ],
+    "anchors": [
+      [
+        924.68,
+        121.69
+      ]
+    ]
+  },
+  {
+    "n": "7",
+    "code": null,
+    "name_tr": "Depo",
+    "name_en": "Depo",
+    "type": "storage",
+    "anchor": [
+      962.98,
+      220.88
+    ],
+    "anchors": [
+      [
+        962.98,
+        220.88
+      ]
+    ]
+  },
+  {
+    "n": "8",
+    "code": null,
+    "name_tr": "Kadın İbadethane",
+    "name_en": "Woman Prayer Room",
+    "type": "prayer",
+    "anchor": [
+      1100.66,
+      190.43
+    ],
+    "anchors": [
+      [
+        1100.66,
+        190.43
+      ]
+    ]
+  },
+  {
+    "n": "9",
+    "code": null,
+    "name_tr": "Erkek İbadethane",
+    "name_en": "Man Prayer Room",
+    "type": "prayer",
+    "anchor": [
+      1201.38,
+      190.43
+    ],
+    "anchors": [
+      [
+        1201.38,
+        190.43
+      ]
+    ]
+  },
+  {
+    "n": "10",
+    "code": null,
+    "name_tr": "Depo",
+    "name_en": "Depo",
+    "type": "storage",
+    "anchor": [
+      1444.93,
+      301.12
+    ],
+    "anchors": [
+      [
+        1444.93,
+        301.12
+      ]
+    ]
+  },
+  {
+    "n": "11",
+    "code": "CB204",
+    "name_tr": "CB204 Numaralı Atölye",
+    "name_en": "Atelier Number CB204",
+    "type": "studio",
+    "anchor": [
+      1444.93,
+      344.01
+    ],
+    "anchors": [
+      [
+        1444.93,
+        344.01
+      ]
+    ]
+  }
+]
