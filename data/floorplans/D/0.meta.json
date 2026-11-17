@@ -1,0 +1,23 @@
+{
+  "block": "D",
+  "level": 0,
+  "title": "WAYFINDING MAP YER-YÖN BULMA HARİTASI D BLOK ZEMİN KAT D BLOCK GROUND FLOOR",
+  "source_pdf": "yer-yon-haritalari-d-blok.pdf",
+  "page_index": 2,
+  "crop_pt": {
+    "x0": 26.0,
+    "y0": 133.0,
+    "x1": 1662.0,
+    "y1": 680.0
+  },
+  "size_pt": [
+    1636.0,
+    547.0
+  ],
+  "size_px": [
+    6544,
+    2188
+  ],
+  "px_per_pt": 4.0,
+  "note": "Plan coordinates = PDF points minus crop_pt.x0/y0, y down. Metres come later from the campus measurement (S-04 / B4)."
+}

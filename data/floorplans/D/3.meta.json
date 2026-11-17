@@ -1,0 +1,23 @@
+{
+  "block": "D",
+  "level": 3,
+  "title": "WAYFINDING MAP YER-YÖN BULMA HARİTASI D BLOK 3.KAT D BLOCK 3rd FLOOR",
+  "source_pdf": "yer-yon-haritalari-d-blok.pdf",
+  "page_index": 5,
+  "crop_pt": {
+    "x0": 29.0,
+    "y0": 174.0,
+    "x1": 1664.0,
+    "y1": 696.0
+  },
+  "size_pt": [
+    1635.0,
+    522.0
+  ],
+  "size_px": [
+    6540,
+    2088
+  ],
+  "px_per_pt": 4.0,
+  "note": "Plan coordinates = PDF points minus crop_pt.x0/y0, y down. Metres come later from the campus measurement (S-04 / B4)."
+}
