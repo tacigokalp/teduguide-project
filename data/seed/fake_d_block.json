@@ -1,0 +1,415 @@
+{
+  "_note": "FAKE mini campus for development. Replace with real data from Area B (data/floorplans) later.",
+  "building": {
+    "code": "D",
+    "name": "D Block",
+    "name_tr": "D Blok",
+    "heading_offset_deg": 0.0
+  },
+  "floors": [
+    {
+      "level": 0,
+      "label": "Ground floor",
+      "width_m": 60.0,
+      "height_m": 30.0
+    },
+    {
+      "level": 1,
+      "label": "First floor",
+      "width_m": 60.0,
+      "height_m": 30.0
+    },
+    {
+      "level": 2,
+      "label": "Second floor",
+      "width_m": 60.0,
+      "height_m": 30.0
+    }
+  ],
+  "nodes": [
+    {
+      "ref": "D0-C1",
+      "level": 0,
+      "kind": "corridor",
+      "x": 6.0,
+      "y": 15.0,
+      "accessible": true
+    },
+    {
+      "ref": "D0-C2",
+      "level": 0,
+      "kind": "junction",
+      "x": 30.0,
+      "y": 15.0,
+      "accessible": true
+    },
+    {
+      "ref": "D0-C3",
+      "level": 0,
+      "kind": "corridor",
+      "x": 54.0,
+      "y": 15.0,
+      "accessible": true
+    },
+    {
+      "ref": "D0-STAIR",
+      "level": 0,
+      "kind": "stair",
+      "x": 6.0,
+      "y": 18.0,
+      "accessible": false
+    },
+    {
+      "ref": "D0-LIFT",
+      "level": 0,
+      "kind": "elevator",
+      "x": 54.0,
+      "y": 18.0,
+      "accessible": true
+    },
+    {
+      "ref": "D1-C1",
+      "level": 1,
+      "kind": "corridor",
+      "x": 6.0,
+      "y": 15.0,
+      "accessible": true
+    },
+    {
+      "ref": "D1-C2",
+      "level": 1,
+      "kind": "junction",
+      "x": 30.0,
+      "y": 15.0,
+      "accessible": true
+    },
+    {
+      "ref": "D1-C3",
+      "level": 1,
+      "kind": "corridor",
+      "x": 54.0,
+      "y": 15.0,
+      "accessible": true
+    },
+    {
+      "ref": "D1-STAIR",
+      "level": 1,
+      "kind": "stair",
+      "x": 6.0,
+      "y": 18.0,
+      "accessible": false
+    },
+    {
+      "ref": "D1-LIFT",
+      "level": 1,
+      "kind": "elevator",
+      "x": 54.0,
+      "y": 18.0,
+      "accessible": true
+    },
+    {
+      "ref": "D2-C1",
+      "level": 2,
+      "kind": "corridor",
+      "x": 6.0,
+      "y": 15.0,
+      "accessible": true
+    },
+    {
+      "ref": "D2-C2",
+      "level": 2,
+      "kind": "junction",
+      "x": 30.0,
+      "y": 15.0,
+      "accessible": true
+    },
+    {
+      "ref": "D2-C3",
+      "level": 2,
+      "kind": "corridor",
+      "x": 54.0,
+      "y": 15.0,
+      "accessible": true
+    },
+    {
+      "ref": "D2-STAIR",
+      "level": 2,
+      "kind": "stair",
+      "x": 6.0,
+      "y": 18.0,
+      "accessible": false
+    },
+    {
+      "ref": "D2-LIFT",
+      "level": 2,
+      "kind": "elevator",
+      "x": 54.0,
+      "y": 18.0,
+      "accessible": true
+    }
+  ],
+  "edges": [
+    {
+      "a": "D0-C1",
+      "b": "D0-C2",
+      "kind": "walk",
+      "weight_m": 24.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D0-C2",
+      "b": "D0-C3",
+      "kind": "walk",
+      "weight_m": 24.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D0-C1",
+      "b": "D0-STAIR",
+      "kind": "walk",
+      "weight_m": 3.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D0-C3",
+      "b": "D0-LIFT",
+      "kind": "walk",
+      "weight_m": 3.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D1-C1",
+      "b": "D1-C2",
+      "kind": "walk",
+      "weight_m": 24.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D1-C2",
+      "b": "D1-C3",
+      "kind": "walk",
+      "weight_m": 24.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D1-C1",
+      "b": "D1-STAIR",
+      "kind": "walk",
+      "weight_m": 3.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D1-C3",
+      "b": "D1-LIFT",
+      "kind": "walk",
+      "weight_m": 3.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D2-C1",
+      "b": "D2-C2",
+      "kind": "walk",
+      "weight_m": 24.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D2-C2",
+      "b": "D2-C3",
+      "kind": "walk",
+      "weight_m": 24.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D2-C1",
+      "b": "D2-STAIR",
+      "kind": "walk",
+      "weight_m": 3.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D2-C3",
+      "b": "D2-LIFT",
+      "kind": "walk",
+      "weight_m": 3.0,
+      "accessible": true,
+      "floors_spanned": 0
+    },
+    {
+      "a": "D0-STAIR",
+      "b": "D1-STAIR",
+      "kind": "stairs",
+      "weight_m": 8.0,
+      "accessible": false,
+      "floors_spanned": 1
+    },
+    {
+      "a": "D0-LIFT",
+      "b": "D1-LIFT",
+      "kind": "elevator",
+      "weight_m": 10.0,
+      "accessible": true,
+      "floors_spanned": 1
+    },
+    {
+      "a": "D1-STAIR",
+      "b": "D2-STAIR",
+      "kind": "stairs",
+      "weight_m": 8.0,
+      "accessible": false,
+      "floors_spanned": 1
+    },
+    {
+      "a": "D1-LIFT",
+      "b": "D2-LIFT",
+      "kind": "elevator",
+      "weight_m": 10.0,
+      "accessible": true,
+      "floors_spanned": 1
+    }
+  ],
+  "locations": [
+    {
+      "code": "D001",
+      "level": 0,
+      "name": "Classroom D001",
+      "name_tr": "D001 Sınıfı",
+      "type": "classroom",
+      "subtype": null,
+      "x": 10.0,
+      "y": 8.0,
+      "door": "D0-C1",
+      "accessible": true
+    },
+    {
+      "code": "D002",
+      "level": 0,
+      "name": "Computer Lab D002",
+      "name_tr": "D002 Bilgisayar Laboratuvarı",
+      "type": "lab",
+      "subtype": null,
+      "x": 30.0,
+      "y": 8.0,
+      "door": "D0-C2",
+      "accessible": true
+    },
+    {
+      "code": "D-WC0",
+      "level": 0,
+      "name": "Restroom (ground floor)",
+      "name_tr": "Tuvalet (zemin kat)",
+      "type": "wc",
+      "subtype": null,
+      "x": 50.0,
+      "y": 8.0,
+      "door": "D0-C3",
+      "accessible": true
+    },
+    {
+      "code": "D-IBD0",
+      "level": 0,
+      "name": "Prayer Room",
+      "name_tr": "İbadethane",
+      "type": "facility",
+      "subtype": "prayer_room",
+      "x": 20.0,
+      "y": 22.0,
+      "door": "D0-C2",
+      "accessible": true
+    },
+    {
+      "code": "D101",
+      "level": 1,
+      "name": "Classroom D101",
+      "name_tr": "D101 Sınıfı",
+      "type": "classroom",
+      "subtype": null,
+      "x": 10.0,
+      "y": 8.0,
+      "door": "D1-C1",
+      "accessible": true
+    },
+    {
+      "code": "D102",
+      "level": 1,
+      "name": "Prof. Çapın Office",
+      "name_tr": "Prof. Çapın Ofisi",
+      "type": "office",
+      "subtype": null,
+      "x": 30.0,
+      "y": 8.0,
+      "door": "D1-C2",
+      "accessible": true
+    },
+    {
+      "code": "D-WC1",
+      "level": 1,
+      "name": "Restroom (first floor)",
+      "name_tr": "Tuvalet (1. kat)",
+      "type": "wc",
+      "subtype": null,
+      "x": 50.0,
+      "y": 8.0,
+      "door": "D1-C3",
+      "accessible": true
+    },
+    {
+      "code": "D201",
+      "level": 2,
+      "name": "Classroom D201",
+      "name_tr": "D201 Sınıfı",
+      "type": "classroom",
+      "subtype": null,
+      "x": 8.0,
+      "y": 8.0,
+      "door": "D2-C1",
+      "accessible": true
+    },
+    {
+      "code": "D202",
+      "level": 2,
+      "name": "Electronics Lab D202",
+      "name_tr": "D202 Elektronik Laboratuvarı",
+      "type": "lab",
+      "subtype": null,
+      "x": 30.0,
+      "y": 8.0,
+      "door": "D2-C2",
+      "accessible": true
+    },
+    {
+      "code": "D232",
+      "level": 2,
+      "name": "Classroom D232",
+      "name_tr": "D232 Sınıfı",
+      "type": "classroom",
+      "subtype": null,
+      "x": 14.2,
+      "y": 7.9,
+      "door": "D2-C1",
+      "accessible": true
+    },
+    {
+      "code": "D203",
+      "level": 2,
+      "name": "Office D203",
+      "name_tr": "D203 Ofis",
+      "type": "office",
+      "subtype": null,
+      "x": 50.0,
+      "y": 8.0,
+      "door": "D2-C3",
+      "accessible": true
+    }
+  ]
+}
