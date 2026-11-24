@@ -9,6 +9,7 @@ dependencies = [
     "uvicorn[standard]",
     "sqlalchemy[asyncio]>=2",
     "asyncpg",
+    "geoalchemy2",
     "alembic",
     "pydantic>=2",
     "pydantic-settings",
@@ -31,3 +32,5 @@ asyncio_default_fixture_loop_scope = "function"
 
 [tool.ruff]
 line-length = 100
+# Alembic writes these files itself; we do not restyle generated code.
+extend-exclude = ["alembic/versions"]
