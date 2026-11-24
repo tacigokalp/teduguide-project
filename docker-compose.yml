@@ -1,0 +1,16 @@
+# Starts the database for local development: `docker compose up -d db`
+# Stop it with `docker compose down` (data stays). Delete the data too: `docker compose down -v`.
+services:
+  db:
+    image: postgis/postgis:15-3.4        # PostgreSQL 15 with the PostGIS add-on already installed
+    environment:
+      POSTGRES_USER: tedu
+      POSTGRES_PASSWORD: tedu            # local development only, never use this in production
+      POSTGRES_DB: tedu
+    ports:
+      - "5432:5432"                      # if you already run PostgreSQL on this port, use "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data  # keeps the data after the container stops
+
+volumes:
+  pgdata: {}
